@@ -1,0 +1,16 @@
+For the Logistic Regression, the continuous features chosen were: ['VehicleAge', 'VehOdo', 'MMRAcquisitionRetailAveragePrice']
+The categorical features chosen were: ['AUCGUART', 'VNST', 'Auction']
+The C parameter chosen was: 0.01
+
+For the Decision Tree, the continuous features chosen were: ['VehicleAge', 'VehOdo', 'MMRAcquisitionRetailAveragePrice']
+The categorical features chosen were: ['AUCGUART', 'VNST', 'Auction']
+The min_samples_split parameter chosen was: 5
+The max_depth parameter chosen was: 5
+
+For the Random Forest, the continuous features chosen were: ['VehicleAge', 'VehOdo', 'MMRAcquisitionRetailAveragePrice']
+The categorical features chosen were: ['AUCGUART', 'VNST', 'Auction']
+The min_samples_split parameter chosen was: 2
+The max_depth parameter chosen was: 6
+The n_estimators parameter chosen was: 15
+
+Decision Tree was submitted.
